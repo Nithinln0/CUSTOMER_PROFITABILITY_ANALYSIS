@@ -1,0 +1,1001 @@
+﻿Customer_ID,Call_Date,Call_Duration,Call_Type,Charges,Geography
+93,23-12-2023,44,Local,36.3500765,New York
+72,28-01-2023,6,International,28.67765185,Los Angeles
+93,21-03-2023,3,International,3.211948402,New York
+11,10-08-2023,60,International,,Los Angeles
+87,02-07-2023,46,International,25.01847604,Chicago
+31,10-03-2023,25,International,8.383684943,New York
+41,09-10-2023,55,International,13.7373884,New York
+80,26-07-2023,37,Local,37.61269194,New York
+83,27-12-2023,44,Local,42.71589977,Chicago
+88,04-09-2023,31,Local,27.08190743,New York
+99,15-03-2023,51,International,23.51629284,New York
+47,01-08-2023,54,International,29.09150808,Los Angeles
+21,26-03-2023,23,Local,46.35745039,Chicago
+60,09-02-2023,6,International,45.41489178,Los Angeles
+5,19-05-2023,31,International,36.33525276,New York
+38,01-04-2023,26,International,3.645882882,New York
+57,28-08-2023,1,International,7.766989068,Chicago
+66,12-08-2023,33,International,41.08963193,New York
+87,04-10-2023,31,International,15.54938184,Los Angeles
+85,24-08-2023,48,International,43.99782629,Los Angeles
+79,11-05-2023,26,Local,15.18844693,Los Angeles
+48,27-12-2023,7,International,23.01697284,Los Angeles
+69,18-01-2023,47,International,31.85274755,New York
+99,27-01-2023,41,International,43.6831228,Chicago
+72,16-03-2023,48,International,16.53910766,New York
+65,14-06-2023,13,International,49.35651005,Chicago
+69,11-03-2023,48,Local,24.35375217,Los Angeles
+35,06-10-2023,6,Local,8.155936896,Los Angeles
+14,08-07-2023,16,International,11.25635389,Los Angeles
+9,09-05-2023,44,Local,7.982759661,Los Angeles
+33,12-02-2023,14,International,25.32720107,Chicago
+91,07-10-2023,58,International,17.01200123,Los Angeles
+100,27-09-2023,32,Local,21.88377602,Chicago
+65,26-02-2023,4,International,22.30077994,Chicago
+92,01-06-2023,59,International,38.79510543,Chicago
+56,07-06-2023,32,Local,9.479035587,Chicago
+90,01-06-2023,22,International,39.75959159,Chicago
+89,23-07-2023,33,Local,40.58404826,Los Angeles
+17,25-08-2023,49,International,15.66091132,Chicago
+52,05-07-2023,38,International,7.468961811,New York
+47,27-10-2023,50,Local,23.12017952,Los Angeles
+71,17-11-2023,2,International,37.64341457,Los Angeles
+96,19-09-2023,53,Local,8.308792557,Los Angeles
+1,02-01-2023,4,International,26.16506134,New York
+75,09-04-2023,8,International,11.28415822,New York
+31,24-12-2023,44,Local,,Chicago
+40,01-11-2023,16,International,14.97848253,New York
+38,26-06-2023,41,Local,21.73008606,Los Angeles
+44,17-10-2023,50,International,11.39684457,Chicago
+39,03-07-2023,4,International,50.38922897,New York
+95,26-04-2023,5,Local,48.16582077,Los Angeles
+41,04-08-2023,44,International,40.45165055,Los Angeles
+79,01-01-2023,32,International,18.78591329,New York
+3,08-10-2023,36,Local,47.70137629,New York
+56,15-05-2023,33,Local,10.79424534,Chicago
+43,19-07-2023,36,Local,2.158862544,New York
+69,17-05-2023,60,International,40.97493568,Chicago
+34,04-11-2023,39,International,44.67047482,Chicago
+87,04-01-2023,11,International,33.41061554,New York
+2,08-01-2023,16,International,18.58780785,Chicago
+5,23-09-2023,50,Local,34.43035554,Chicago
+33,11-10-2023,3,Local,9.085177538,Chicago
+62,02-09-2023,15,International,30.86153063,New York
+19,11-01-2023,43,Local,22.53011665,Chicago
+1,18-08-2023,24,International,4.551161037,Chicago
+33,15-12-2023,59,International,43.82636036,Chicago
+33,01-02-2023,22,Local,28.80941239,Los Angeles
+18,28-01-2023,37,Local,,Chicago
+62,09-02-2023,4,Local,44.31337862,Chicago
+17,08-10-2023,60,International,42.5373651,Los Angeles
+19,22-12-2023,49,International,47.61769683,New York
+64,27-10-2023,32,Local,47.35808331,Los Angeles
+82,28-10-2023,38,Local,3.638266424,Los Angeles
+71,03-04-2023,53,Local,23.15457425,Los Angeles
+55,27-12-2023,52,Local,22.06172576,New York
+69,04-03-2023,53,Local,33.2081062,Los Angeles
+70,26-09-2023,54,International,49.13501907,New York
+8,24-07-2023,29,Local,1.006490935,Chicago
+15,10-07-2023,21,Local,48.40770698,New York
+36,13-04-2023,11,International,32.75577676,New York
+1,10-09-2023,57,Local,4.807525494,Los Angeles
+23,08-08-2023,55,Local,31.77445783,Chicago
+73,22-03-2023,60,Local,44.11679972,Chicago
+89,16-12-2023,5,International,30.0151499,Chicago
+100,06-11-2023,38,Local,6.830247072,Chicago
+44,08-02-2023,49,International,2.965789945,New York
+25,08-04-2023,43,Local,30.88697348,Los Angeles
+18,06-04-2023,36,Local,19.28785948,New York
+82,09-11-2023,5,International,20.32249536,New York
+2,13-05-2023,7,Local,13.69241514,Chicago
+99,22-02-2023,31,International,37.80796607,New York
+69,10-02-2023,56,International,50.15267549,Chicago
+5,14-01-2023,53,International,26.98257441,Chicago
+28,26-08-2023,50,Local,1.527876138,New York
+66,21-02-2023,9,Local,25.82867443,Los Angeles
+25,07-12-2023,52,International,37.03797885,Los Angeles
+23,01-01-2023,25,Local,11.42977118,New York
+74,14-04-2023,49,International,13.8946107,New York
+52,17-11-2023,3,International,8.21225235,Los Angeles
+17,19-07-2023,56,Local,19.53431768,Los Angeles
+77,18-04-2023,30,Local,3.668641288,Chicago
+20,20-07-2023,55,International,48.86835683,Chicago
+67,10-12-2023,43,Local,24.02360623,New York
+23,19-04-2023,24,Local,11.60205282,Los Angeles
+46,17-09-2023,10,International,23.13316995,New York
+58,02-07-2023,43,Local,24.95727351,New York
+48,04-08-2023,27,Local,42.1540005,Chicago
+11,11-07-2023,48,International,17.22369142,New York
+26,09-12-2023,39,International,44.47254785,Los Angeles
+30,05-08-2023,23,Local,36.37360282,Los Angeles
+86,24-01-2023,46,Local,43.62362354,Los Angeles
+31,10-06-2023,11,International,43.86125774,Los Angeles
+100,03-01-2023,44,Local,38.39784614,Chicago
+66,19-12-2023,47,International,25.14312795,Los Angeles
+27,26-01-2023,48,International,50.67348084,Los Angeles
+39,23-01-2023,28,International,7.318131865,New York
+13,12-06-2023,27,Local,17.77244619,New York
+40,13-01-2023,45,International,2.617545575,New York
+8,16-02-2023,8,International,38.06474854,New York
+63,10-07-2023,28,Local,48.363762,New York
+51,06-07-2023,57,International,20.45555905,New York
+35,05-05-2023,26,International,25.58746588,Los Angeles
+35,27-10-2023,27,Local,7.548603129,Chicago
+15,03-03-2023,39,International,25.66492741,Los Angeles
+69,03-10-2023,52,Local,22.69391378,Los Angeles
+14,11-08-2023,14,Local,40.3501435,New York
+31,23-06-2023,38,International,46.29798842,Chicago
+34,13-03-2023,44,Local,20.26348279,Los Angeles
+89,24-11-2023,46,International,47.59076447,Chicago
+18,17-08-2023,26,International,13.16150082,New York
+90,16-02-2023,1,Local,20.68962084,Los Angeles
+59,23-11-2023,60,Local,36.0641938,New York
+40,13-12-2023,21,International,18.73939982,New York
+50,05-01-2023,6,Local,15.77218802,Los Angeles
+35,01-07-2023,42,International,23.87043307,Chicago
+100,27-07-2023,34,Local,29.1145,New York
+23,20-03-2023,37,International,37.19860046,Los Angeles
+54,12-01-2023,23,Local,23.13865148,New York
+98,14-02-2023,53,International,46.79443546,Chicago
+19,01-01-2023,18,International,2.491628432,New York
+80,26-06-2023,16,International,21.52862013,New York
+11,05-12-2023,36,Local,23.49812426,Los Angeles
+72,15-05-2023,26,Local,12.24782195,Chicago
+97,10-12-2023,33,International,6.720270289,Los Angeles
+96,06-08-2023,18,Local,43.09248556,Los Angeles
+62,10-09-2023,58,Local,27.80978821,Los Angeles
+59,26-03-2023,49,Local,47.10192707,Los Angeles
+31,20-05-2023,49,Local,19.06138526,Chicago
+66,16-11-2023,13,Local,48.53222938,New York
+5,13-04-2023,44,International,14.55644327,Los Angeles
+15,19-08-2023,44,International,15.23340187,Chicago
+22,03-08-2023,15,International,9.894474856,Los Angeles
+61,23-02-2023,6,Local,6.399926593,Los Angeles
+27,17-10-2023,56,Local,45.50699644,New York
+73,08-10-2023,9,International,36.30054169,Chicago
+40,18-06-2023,35,International,26.52261294,New York
+96,22-03-2023,40,Local,5.933078813,New York
+82,04-04-2023,22,Local,3.945360498,New York
+58,08-11-2023,59,Local,43.55592468,Los Angeles
+38,17-02-2023,1,Local,31.94585486,Los Angeles
+92,20-11-2023,11,Local,33.15998751,New York
+83,17-01-2023,9,Local,29.14035682,New York
+43,20-05-2023,30,International,47.62042992,Los Angeles
+7,14-05-2023,8,International,45.19797695,Los Angeles
+3,15-04-2023,34,Local,12.83368717,Chicago
+37,10-06-2023,56,Local,30.20258787,Los Angeles
+53,17-03-2023,21,Local,34.65603381,Chicago
+87,21-03-2023,42,International,8.207895361,Los Angeles
+13,26-02-2023,33,Local,45.08241277,Chicago
+32,11-11-2023,52,Local,20.84727603,Chicago
+15,20-01-2023,44,International,38.5426687,New York
+76,08-12-2023,38,Local,40.00652052,Chicago
+82,07-05-2023,12,Local,44.84287293,Los Angeles
+21,03-05-2023,58,Local,4.817598294,Chicago
+80,01-12-2023,2,International,18.70293754,Los Angeles
+45,24-07-2023,58,Local,49.01860079,Chicago
+74,17-03-2023,57,Local,36.8789335,Chicago
+59,18-10-2023,52,Local,43.13967902,Chicago
+26,08-05-2023,42,Local,7.894156914,Chicago
+54,09-05-2023,54,Local,42.89971585,New York
+1,01-11-2023,53,Local,26.86463522,Los Angeles
+57,16-10-2023,60,Local,11.6323494,New York
+65,06-12-2023,14,Local,33.13511328,Los Angeles
+35,11-03-2023,21,International,25.96256018,Chicago
+12,11-02-2023,56,Local,43.55050959,Los Angeles
+46,05-09-2023,42,International,27.86452625,Chicago
+81,21-02-2023,25,International,13.8989095,Los Angeles
+49,07-08-2023,25,Local,15.80130356,Chicago
+29,28-02-2023,14,International,37.96655887,Chicago
+44,27-09-2023,12,Local,33.64293019,Chicago
+45,23-02-2023,23,International,25.03890098,New York
+19,22-04-2023,28,Local,37.35918836,New York
+60,17-12-2023,2,Local,17.83515773,Chicago
+42,25-08-2023,53,International,45.45517712,New York
+28,15-10-2023,52,Local,45.04940865,Los Angeles
+35,06-10-2023,48,Local,13.39103492,Chicago
+29,20-01-2023,11,Local,18.75989447,Los Angeles
+69,11-12-2023,1,Local,22.41324741,Los Angeles
+34,28-12-2023,54,International,12.40342405,New York
+83,20-06-2023,34,International,16.12083457,Chicago
+12,03-06-2023,42,International,22.53751234,New York
+24,21-08-2023,31,International,47.88301243,New York
+30,08-04-2023,58,Local,44.1746129,New York
+25,18-08-2023,38,Local,26.14086175,Chicago
+23,14-09-2023,45,International,34.74668532,Chicago
+5,28-12-2023,32,International,20.24649746,Chicago
+99,16-07-2023,35,International,15.41809844,Los Angeles
+99,21-03-2023,37,International,4.025393166,Chicago
+40,26-08-2023,47,Local,11.08531996,Chicago
+17,04-03-2023,16,International,14.81958419,New York
+42,04-04-2023,30,International,2.276751437,New York
+61,23-06-2023,30,Local,47.28534937,Los Angeles
+3,25-05-2023,46,Local,26.65937818,Chicago
+57,27-01-2023,14,Local,14.29009888,Chicago
+74,08-04-2023,59,Local,17.74552558,New York
+96,04-05-2023,27,Local,13.87152054,New York
+1,25-04-2023,12,International,13.91519201,Chicago
+2,14-05-2023,22,Local,40.30679274,Chicago
+99,21-11-2023,40,International,8.485681034,Chicago
+27,21-07-2023,44,Local,36.48272508,Chicago
+12,04-08-2023,47,International,10.74239657,Chicago
+59,16-01-2023,11,Local,45.35407082,New York
+29,14-03-2023,9,Local,50.66111891,Los Angeles
+38,14-01-2023,58,Local,40.26357829,New York
+74,26-11-2023,38,International,35.03951217,Chicago
+59,21-10-2023,58,Local,20.65494049,Los Angeles
+21,09-02-2023,47,International,12.03095664,Chicago
+67,27-04-2023,50,International,3.269039372,New York
+12,14-11-2023,33,Local,37.24972366,Chicago
+4,11-12-2023,3,International,33.90705567,Los Angeles
+85,08-06-2023,45,International,21.62419647,Chicago
+47,24-03-2023,12,International,40.1617877,Los Angeles
+68,27-10-2023,3,International,38.35875027,New York
+30,25-07-2023,59,Local,6.677994414,Los Angeles
+62,06-11-2023,22,Local,25.22195896,Los Angeles
+28,17-02-2023,11,International,21.41886281,Chicago
+42,03-06-2023,19,Local,12.8209636,Chicago
+26,15-09-2023,26,Local,17.14273604,Chicago
+38,11-11-2023,23,International,45.42317078,New York
+81,16-01-2023,1,International,6.723400497,New York
+41,08-07-2023,12,Local,9.033870974,New York
+66,07-03-2023,33,Local,27.45948766,New York
+21,05-10-2023,22,Local,48.15074233,New York
+8,06-06-2023,25,Local,35.34196809,Los Angeles
+63,03-01-2023,34,Local,41.77836933,Chicago
+38,04-12-2023,43,International,16.59044612,Los Angeles
+76,06-08-2023,13,Local,5.216084963,Chicago
+93,05-02-2023,53,International,18.89548,Los Angeles
+86,07-11-2023,10,Local,38.65024484,New York
+15,11-11-2023,30,International,14.95900607,Los Angeles
+82,28-04-2023,60,Local,8.895547728,Los Angeles
+27,09-01-2023,19,International,21.5439786,New York
+81,09-07-2023,29,International,33.73052343,New York
+41,11-05-2023,21,International,21.60738696,New York
+70,05-08-2023,14,International,50.54378563,Los Angeles
+18,23-08-2023,45,International,48.18333013,Chicago
+78,09-10-2023,22,Local,28.73136374,Chicago
+90,11-01-2023,52,International,42.93099991,Los Angeles
+28,06-07-2023,13,Local,38.70940571,Los Angeles
+4,04-05-2023,35,Local,21.86317583,Chicago
+9,16-01-2023,24,Local,8.363570901,Chicago
+15,20-04-2023,38,International,12.73153152,Los Angeles
+52,26-01-2023,3,Local,32.18004385,Los Angeles
+22,01-05-2023,24,International,15.7392457,Chicago
+39,05-12-2023,42,International,40.70491603,Chicago
+99,14-03-2023,30,Local,40.6475236,Los Angeles
+34,12-08-2023,8,International,1.815611218,New York
+92,17-10-2023,25,Local,40.89574545,New York
+43,05-11-2023,13,Local,2.454617098,New York
+93,25-05-2023,49,Local,42.67619496,New York
+98,24-09-2023,26,International,24.74844863,Los Angeles
+11,27-03-2023,35,International,32.52174204,New York
+11,17-06-2023,54,International,29.1569201,Chicago
+41,18-10-2023,22,International,23.96618931,Los Angeles
+77,14-12-2023,14,Local,8.69802778,Chicago
+29,13-10-2023,43,Local,36.39161424,Chicago
+67,06-03-2023,28,Local,45.24484531,Chicago
+5,15-06-2023,6,Local,17.4731022,New York
+20,13-06-2023,28,Local,21.45298273,Los Angeles
+1,28-09-2023,11,Local,5.667647445,New York
+64,15-05-2023,2,Local,3.350343983,Chicago
+61,23-10-2023,51,International,36.43549431,New York
+25,27-04-2023,27,Local,46.71049879,Chicago
+19,21-09-2023,35,International,18.30837909,New York
+12,01-04-2023,39,International,23.17099793,Los Angeles
+14,21-06-2023,15,Local,4.50069651,New York
+20,28-03-2023,37,International,15.12352938,Los Angeles
+19,02-11-2023,37,Local,31.37484899,Los Angeles
+46,08-09-2023,57,International,17.112187,New York
+67,15-10-2023,54,International,42.00877161,Chicago
+92,16-07-2023,48,Local,24.9228309,Los Angeles
+19,03-05-2023,6,International,10.10145174,New York
+92,13-02-2023,1,Local,18.65377116,Los Angeles
+47,05-06-2023,15,Local,19.64490918,Los Angeles
+91,09-03-2023,9,Local,37.86592422,New York
+43,15-03-2023,25,International,12.5649066,Los Angeles
+23,15-04-2023,45,Local,11.88343239,Los Angeles
+13,15-10-2023,57,Local,11.3030038,New York
+27,21-10-2023,50,Local,33.86906242,New York
+84,09-12-2023,32,Local,14.49819635,Los Angeles
+85,26-03-2023,53,Local,36.95065317,Los Angeles
+75,14-02-2023,57,International,32.23909133,Los Angeles
+41,08-12-2023,14,International,37.2721665,Chicago
+19,26-03-2023,32,Local,27.07506572,Chicago
+62,02-12-2023,45,Local,2.783922514,Los Angeles
+52,12-08-2023,30,International,49.05104214,Chicago
+48,14-01-2023,33,International,38.72373045,Chicago
+100,26-01-2023,5,International,33.23683769,Los Angeles
+84,08-01-2023,20,International,35.67543166,Los Angeles
+47,20-02-2023,36,International,24.72607657,New York
+4,08-04-2023,51,Local,47.65874371,New York
+33,19-05-2023,1,International,36.01802375,Chicago
+69,15-02-2023,37,Local,35.92559756,Chicago
+58,18-08-2023,54,International,26.13151224,Chicago
+38,20-12-2023,29,International,5.367330929,Los Angeles
+76,28-02-2023,10,Local,17.71486095,Chicago
+43,02-09-2023,30,Local,21.12323734,Los Angeles
+87,03-01-2023,8,Local,32.73106042,Chicago
+57,15-12-2023,24,International,35.54541223,Chicago
+32,07-07-2023,19,Local,10.32103031,New York
+72,11-07-2023,14,Local,38.65422235,New York
+67,16-07-2023,54,Local,13.68103098,Chicago
+36,27-07-2023,47,Local,38.07683581,Los Angeles
+39,03-10-2023,6,Local,37.82042633,New York
+68,25-01-2023,10,International,30.14784827,Los Angeles
+53,02-12-2023,37,Local,8.582234004,Chicago
+49,13-10-2023,31,Local,15.32148957,Chicago
+25,06-12-2023,16,Local,1.32614167,New York
+63,21-08-2023,52,Local,11.59936834,Chicago
+68,28-09-2023,18,International,35.23858188,Chicago
+26,27-01-2023,21,International,47.05201553,Chicago
+67,10-08-2023,14,International,49.8344203,New York
+89,16-12-2023,41,International,14.88876842,Chicago
+26,28-09-2023,23,Local,33.62025086,Chicago
+74,21-05-2023,55,International,44.62355341,Chicago
+18,17-10-2023,3,Local,20.36034966,Los Angeles
+63,10-10-2023,23,International,6.022883778,New York
+41,22-12-2023,29,Local,44.21056101,Chicago
+51,08-01-2023,28,Local,17.05734269,Los Angeles
+5,18-11-2023,14,International,40.94788982,New York
+68,18-11-2023,20,Local,25.75371089,Los Angeles
+81,18-10-2023,2,International,42.97078999,Chicago
+50,16-07-2023,37,Local,32.07961415,Los Angeles
+100,20-06-2023,5,International,29.14199145,Los Angeles
+93,05-02-2023,44,International,6.083568326,Los Angeles
+63,26-04-2023,17,Local,42.34296698,Chicago
+86,16-02-2023,9,International,37.21306966,Los Angeles
+68,20-10-2023,38,Local,48.88909289,Los Angeles
+44,03-08-2023,58,International,12.47980277,Los Angeles
+22,19-05-2023,29,International,9.773320998,Chicago
+81,16-03-2023,57,International,5.919677242,New York
+21,03-10-2023,47,Local,33.47558324,Chicago
+91,11-01-2023,43,Local,49.26799282,Los Angeles
+7,17-05-2023,6,Local,8.658334554,New York
+22,14-01-2023,59,International,37.57619478,Chicago
+8,20-05-2023,39,International,44.25204435,Los Angeles
+97,28-06-2023,16,International,20.2664332,New York
+26,02-06-2023,12,International,43.67202513,New York
+22,07-05-2023,30,International,37.28218905,Chicago
+7,18-02-2023,45,Local,1.278817998,Chicago
+31,03-04-2023,1,Local,4.375295245,Chicago
+69,13-10-2023,34,International,6.316921558,Chicago
+76,27-08-2023,27,Local,42.40305076,Los Angeles
+30,13-12-2023,19,International,22.31058858,Los Angeles
+49,16-12-2023,28,Local,21.35240457,New York
+79,27-02-2023,29,Local,22.86260846,New York
+63,14-04-2023,31,Local,15.78810717,Chicago
+29,26-12-2023,36,Local,43.7458066,New York
+70,03-08-2023,2,International,13.71022025,Los Angeles
+94,24-09-2023,56,Local,45.73130548,Chicago
+43,02-01-2023,5,International,7.675769838,Los Angeles
+77,25-08-2023,13,Local,23.61426653,Chicago
+36,23-04-2023,19,International,27.48477463,Chicago
+25,13-04-2023,24,International,26.22150914,Chicago
+16,10-03-2023,9,International,50.25918803,Chicago
+9,14-01-2023,55,Local,19.90602217,Los Angeles
+42,02-03-2023,54,International,33.00026121,New York
+19,03-09-2023,29,Local,41.23404954,Los Angeles
+69,10-03-2023,38,Local,39.95349044,Los Angeles
+56,04-04-2023,47,Local,3.021065671,New York
+94,25-08-2023,41,Local,5.67022045,Los Angeles
+45,12-10-2023,40,Local,9.41758856,New York
+97,11-02-2023,54,Local,31.7795341,Chicago
+75,22-01-2023,37,Local,42.97765838,New York
+50,08-04-2023,18,International,40.17869515,New York
+55,02-09-2023,13,International,46.21044484,New York
+6,12-01-2023,10,Local,18.20130451,Chicago
+92,02-08-2023,60,International,2.07723611,Chicago
+18,03-06-2023,50,Local,2.981488787,Chicago
+14,03-09-2023,41,Local,47.65738894,Chicago
+2,13-01-2023,3,International,43.27460145,Los Angeles
+38,14-11-2023,44,Local,20.81398027,Chicago
+60,19-08-2023,54,International,19.13019415,Chicago
+16,27-11-2023,42,Local,41.66223026,Chicago
+95,22-02-2023,1,International,50.28878462,Los Angeles
+22,07-09-2023,11,International,28.05198412,New York
+3,26-10-2023,4,Local,44.88778414,New York
+16,07-09-2023,19,Local,50.40437469,Chicago
+82,03-03-2023,49,International,9.027645381,Los Angeles
+72,04-06-2023,11,International,3.610780256,Los Angeles
+80,14-09-2023,8,Local,9.527613888,New York
+51,04-01-2023,51,Local,24.40868334,Los Angeles
+11,01-01-2023,16,Local,1.554518823,New York
+79,24-07-2023,14,Local,15.4289372,New York
+100,18-12-2023,18,International,14.74597267,Los Angeles
+25,17-10-2023,17,International,35.68692827,Los Angeles
+82,11-10-2023,22,Local,31.93064013,New York
+92,03-06-2023,45,International,24.99170427,Chicago
+81,08-04-2023,4,Local,13.72482747,New York
+76,16-10-2023,39,Local,35.94434654,New York
+91,06-05-2023,4,International,31.61985806,New York
+100,08-08-2023,36,Local,31.52443645,New York
+47,08-07-2023,19,Local,23.03391748,New York
+64,05-05-2023,57,International,26.99017344,Chicago
+1,01-04-2023,14,International,41.47102772,Chicago
+59,16-01-2023,12,International,9.576759548,Los Angeles
+48,04-11-2023,50,Local,27.32314891,Chicago
+30,21-12-2023,40,Local,34.70864287,Los Angeles
+29,20-10-2023,51,Local,30.70135171,Los Angeles
+92,06-03-2023,40,International,20.44547354,New York
+25,19-10-2023,31,International,10.02375192,Los Angeles
+23,21-10-2023,4,International,8.106101008,New York
+38,02-03-2023,2,Local,24.03761897,Chicago
+17,19-07-2023,35,Local,4.782010091,Los Angeles
+37,27-01-2023,39,Local,7.934926933,Los Angeles
+32,20-02-2023,49,Local,16.20830335,Los Angeles
+62,09-08-2023,45,International,17.52423851,Los Angeles
+26,08-06-2023,32,Local,15.93483179,Los Angeles
+65,11-07-2023,12,International,33.80754277,New York
+77,20-04-2023,50,Local,26.59052845,Chicago
+76,10-11-2023,1,International,25.89586568,New York
+100,02-04-2023,40,Local,11.5006669,Chicago
+48,06-11-2023,45,International,20.81479641,New York
+42,01-07-2023,53,Local,27.61009471,New York
+79,26-03-2023,15,International,18.22309537,Los Angeles
+29,09-02-2023,33,Local,4.41286169,Los Angeles
+54,08-07-2023,15,Local,7.591108681,Los Angeles
+44,17-05-2023,60,Local,50.44204232,New York
+77,19-08-2023,44,Local,18.2109142,New York
+100,24-08-2023,60,Local,34.49190008,New York
+87,25-05-2023,50,Local,23.14371983,Chicago
+91,04-12-2023,13,International,16.79403028,Chicago
+95,09-09-2023,49,International,12.55945149,New York
+60,13-11-2023,47,Local,14.26989614,Chicago
+55,04-02-2023,20,Local,33.92128013,Los Angeles
+80,13-03-2023,7,Local,23.06662569,Chicago
+19,09-09-2023,46,Local,2.603614786,New York
+24,09-05-2023,13,International,49.14947823,Chicago
+45,05-11-2023,24,Local,50.54601822,New York
+21,18-02-2023,21,Local,33.87862732,Chicago
+91,17-12-2023,40,Local,18.16479598,Los Angeles
+49,15-05-2023,57,International,4.120671238,New York
+46,17-02-2023,39,International,4.098570608,Chicago
+30,01-02-2023,49,Local,40.97516745,Los Angeles
+50,02-09-2023,60,International,9.575507746,New York
+33,14-07-2023,55,International,43.55418283,Los Angeles
+24,24-02-2023,43,Local,12.8405818,Chicago
+88,22-02-2023,7,Local,29.09200932,New York
+4,20-07-2023,38,International,47.72854645,Chicago
+52,04-09-2023,10,International,13.93137645,Los Angeles
+80,20-05-2023,11,International,47.00886905,New York
+34,11-03-2023,16,Local,23.66984308,Los Angeles
+64,06-07-2023,10,Local,4.369302053,New York
+25,04-04-2023,34,Local,21.4197776,Los Angeles
+79,22-12-2023,50,Local,27.09028423,Chicago
+35,14-06-2023,13,Local,29.97233995,Los Angeles
+20,12-02-2023,27,Local,14.5487699,Los Angeles
+91,18-04-2023,10,International,32.29182742,Los Angeles
+38,17-04-2023,50,Local,36.6780009,Chicago
+40,04-04-2023,33,Local,37.98160269,Chicago
+70,02-11-2023,49,International,12.96893745,New York
+44,17-07-2023,49,International,15.97310836,Chicago
+91,14-05-2023,48,Local,9.625575554,New York
+20,26-03-2023,2,Local,3.953075261,New York
+13,11-10-2023,36,Local,15.0008448,New York
+64,23-05-2023,47,International,19.57493724,Los Angeles
+94,26-09-2023,6,International,44.83316538,New York
+12,20-07-2023,39,International,25.25287392,Chicago
+15,24-03-2023,25,Local,10.04278374,Los Angeles
+93,06-02-2023,44,International,17.98893489,New York
+58,02-02-2023,41,Local,29.70576803,Los Angeles
+31,26-07-2023,59,International,15.28727805,Los Angeles
+24,06-03-2023,22,International,41.35284778,New York
+68,04-08-2023,39,Local,21.7917692,Los Angeles
+51,22-12-2023,37,International,34.68996463,Los Angeles
+91,01-02-2023,47,Local,12.11513937,Los Angeles
+58,06-06-2023,48,Local,27.74524472,Los Angeles
+76,28-11-2023,18,Local,11.91962632,New York
+18,09-02-2023,60,Local,33.39643189,Chicago
+60,05-01-2023,44,Local,46.81515896,Chicago
+2,28-05-2023,18,Local,10.3550809,Los Angeles
+14,06-06-2023,7,International,39.57041804,Chicago
+54,21-11-2023,29,International,42.96110375,New York
+99,26-06-2023,7,International,10.88891693,New York
+44,01-12-2023,21,International,4.178538362,Chicago
+23,07-12-2023,25,Local,19.22253557,New York
+77,28-05-2023,34,Local,26.7814088,New York
+57,27-10-2023,31,International,15.67495128,Los Angeles
+3,26-04-2023,10,Local,6.093675432,Los Angeles
+81,26-12-2023,44,International,27.98905552,Los Angeles
+9,02-10-2023,49,Local,31.51359602,Los Angeles
+29,13-09-2023,56,Local,3.044452028,New York
+53,17-05-2023,6,Local,15.04609869,Los Angeles
+12,25-10-2023,4,Local,47.94130403,Chicago
+14,17-04-2023,46,International,32.55270889,Los Angeles
+62,09-12-2023,37,Local,1.515046512,New York
+36,15-06-2023,28,Local,10.4372059,Chicago
+3,26-11-2023,56,Local,40.75488429,New York
+35,13-09-2023,12,Local,12.09987636,Los Angeles
+84,01-02-2023,55,International,30.46816129,Los Angeles
+84,14-06-2023,49,Local,33.23200473,Chicago
+54,06-12-2023,37,International,19.20189395,New York
+1,08-04-2023,13,International,26.97908557,Los Angeles
+54,07-08-2023,18,Local,2.458077341,New York
+89,04-06-2023,40,Local,2.426282665,New York
+88,12-08-2023,35,International,20.90736594,Chicago
+68,24-04-2023,13,Local,26.60180203,New York
+80,10-11-2023,35,International,10.05682959,New York
+92,17-10-2023,19,International,33.34859933,Chicago
+37,01-07-2023,38,International,45.05059434,New York
+95,19-07-2023,9,International,46.2748347,Chicago
+57,04-10-2023,7,International,48.68863859,Chicago
+62,18-06-2023,18,Local,9.759600967,Los Angeles
+11,07-05-2023,23,International,24.09092555,Los Angeles
+85,20-09-2023,17,Local,1.79261305,Chicago
+80,12-01-2023,59,International,47.13241284,Los Angeles
+50,22-11-2023,54,Local,50.98222399,Los Angeles
+71,12-06-2023,17,Local,46.37584543,Los Angeles
+47,22-05-2023,48,International,11.60706368,Los Angeles
+78,20-07-2023,45,Local,18.52226873,Chicago
+81,13-09-2023,26,Local,13.68853432,New York
+59,13-11-2023,17,Local,25.1685335,New York
+67,14-03-2023,30,International,2.095810377,Los Angeles
+36,08-03-2023,22,International,44.41871546,New York
+52,23-04-2023,22,Local,34.48831706,New York
+61,11-07-2023,50,International,28.01698853,Los Angeles
+44,28-05-2023,20,Local,18.12687062,New York
+5,17-08-2023,37,Local,47.31156754,Los Angeles
+37,28-03-2023,34,International,29.62692372,Chicago
+30,28-08-2023,18,International,45.79499793,Chicago
+14,21-11-2023,52,Local,35.92062737,New York
+23,16-10-2023,4,International,25.37695387,New York
+2,08-06-2023,17,Local,39.85287547,Chicago
+88,11-06-2023,24,Local,17.62328885,Los Angeles
+3,26-05-2023,24,Local,42.47563106,Chicago
+44,03-03-2023,54,Local,30.1629838,Chicago
+99,21-02-2023,54,Local,37.92819038,Chicago
+67,07-01-2023,44,International,8.682173343,New York
+49,04-06-2023,27,Local,44.21876537,Los Angeles
+7,03-09-2023,58,International,48.03890843,Chicago
+71,28-06-2023,11,Local,43.54332206,Chicago
+97,17-05-2023,35,International,33.36942958,Los Angeles
+82,22-04-2023,46,Local,13.27060244,Chicago
+54,15-06-2023,23,International,13.78285536,Chicago
+72,23-05-2023,20,International,4.456995716,Los Angeles
+32,06-07-2023,18,Local,37.64179924,Chicago
+82,07-09-2023,16,Local,39.98980518,Chicago
+38,24-03-2023,8,Local,33.91139058,Chicago
+18,17-03-2023,7,International,31.72069729,Los Angeles
+97,15-10-2023,10,International,50.88368813,New York
+96,10-08-2023,24,International,17.37897776,Chicago
+93,11-07-2023,36,Local,12.23558621,New York
+93,24-04-2023,52,International,37.52725896,Chicago
+87,12-10-2023,9,Local,14.24201243,Chicago
+1,21-06-2023,43,International,16.81489707,Chicago
+46,21-08-2023,46,Local,40.60630444,New York
+42,01-08-2023,51,International,24.6937872,New York
+58,03-08-2023,57,International,32.43084819,New York
+36,23-11-2023,33,International,27.03102654,Chicago
+2,09-09-2023,34,International,6.074344133,Chicago
+60,24-07-2023,28,Local,35.12758947,New York
+92,06-05-2023,8,Local,24.56503667,New York
+91,06-02-2023,22,Local,29.3253915,Los Angeles
+48,14-08-2023,56,International,43.50909372,New York
+90,02-04-2023,44,Local,24.4662062,Chicago
+6,23-08-2023,25,Local,46.43956158,New York
+83,13-01-2023,26,International,42.76361264,New York
+36,18-05-2023,24,International,5.097209949,Chicago
+13,28-08-2023,31,International,38.17244867,New York
+4,17-04-2023,60,Local,44.02135173,Los Angeles
+85,25-03-2023,29,Local,24.67179148,Chicago
+79,20-04-2023,9,International,40.16976894,Los Angeles
+91,08-01-2023,32,Local,6.929409314,New York
+21,12-04-2023,27,Local,33.16951729,Los Angeles
+44,16-03-2023,25,International,45.24628587,Los Angeles
+4,18-01-2023,57,Local,6.310120963,Chicago
+63,08-05-2023,13,Local,43.13260755,Los Angeles
+30,02-05-2023,25,Local,21.53916002,New York
+86,01-12-2023,57,Local,48.75079804,New York
+61,08-06-2023,23,International,36.86959304,New York
+45,26-04-2023,38,Local,34.30504293,New York
+74,08-12-2023,36,International,39.99945325,Los Angeles
+69,01-02-2023,32,International,50.64310814,Los Angeles
+84,21-12-2023,45,International,44.34773758,Los Angeles
+24,14-02-2023,56,Local,43.59825476,New York
+28,16-06-2023,4,Local,50.33360213,Los Angeles
+38,02-12-2023,5,Local,28.18879782,New York
+14,14-12-2023,24,International,7.085225407,New York
+4,03-03-2023,42,International,25.88194027,Chicago
+60,01-05-2023,56,Local,21.54708136,New York
+17,05-03-2023,32,Local,29.48279854,Chicago
+15,07-03-2023,48,Local,16.38638955,Los Angeles
+49,26-08-2023,35,International,40.68866271,Los Angeles
+15,16-12-2023,56,International,41.73606622,Chicago
+70,05-11-2023,41,International,48.76943526,Chicago
+46,02-09-2023,46,International,36.34089083,New York
+10,03-01-2023,7,International,15.01309299,Chicago
+18,03-05-2023,20,International,7.375532336,Chicago
+98,23-12-2023,44,International,15.35821732,New York
+93,04-10-2023,33,Local,37.00289642,Los Angeles
+27,09-06-2023,43,Local,11.15359126,Chicago
+99,10-08-2023,12,International,49.29325339,Chicago
+67,27-09-2023,17,Local,19.82326273,Chicago
+58,22-06-2023,45,International,44.12195689,Chicago
+8,19-02-2023,47,International,9.702666092,Los Angeles
+24,20-10-2023,56,Local,23.67312959,New York
+24,11-11-2023,51,International,21.40694202,Los Angeles
+49,24-01-2023,27,Local,21.24868117,Chicago
+72,17-01-2023,50,International,30.89914816,Chicago
+87,09-04-2023,52,International,19.47556445,Chicago
+93,11-08-2023,19,International,10.85356878,New York
+17,16-01-2023,35,International,46.29769537,Chicago
+43,07-04-2023,45,International,7.154650879,New York
+46,19-12-2023,1,Local,43.05366057,New York
+71,24-02-2023,50,Local,31.99399983,Los Angeles
+64,11-07-2023,13,International,24.660889,New York
+70,14-12-2023,34,Local,44.57798647,Chicago
+11,11-10-2023,16,International,40.96106572,Los Angeles
+20,14-09-2023,4,Local,41.18125869,Chicago
+83,17-10-2023,42,International,18.43488614,Los Angeles
+17,21-05-2023,47,Local,20.03573342,Los Angeles
+5,10-09-2023,43,Local,11.20310707,Chicago
+58,10-09-2023,53,Local,49.51625104,Chicago
+35,23-05-2023,55,International,18.57629162,New York
+13,27-11-2023,45,International,37.23801968,New York
+61,11-06-2023,40,Local,17.54510522,Los Angeles
+41,22-12-2023,8,Local,11.25322162,New York
+93,09-06-2023,27,Local,33.53864278,Los Angeles
+74,05-09-2023,40,International,45.47960657,Chicago
+91,11-09-2023,24,Local,25.30387359,Chicago
+91,25-01-2023,1,Local,15.33104134,Chicago
+83,06-07-2023,54,International,14.98885608,Los Angeles
+3,12-12-2023,3,International,31.34777367,Los Angeles
+32,04-04-2023,14,International,14.33612227,Chicago
+32,11-09-2023,19,Local,33.48825801,Chicago
+46,12-08-2023,10,Local,11.04796072,Los Angeles
+91,08-01-2023,40,International,12.52077072,Los Angeles
+63,18-05-2023,42,International,21.19387791,New York
+18,03-11-2023,6,Local,40.14515176,Chicago
+76,27-04-2023,59,International,44.69920342,Chicago
+13,09-03-2023,9,Local,46.34724885,New York
+72,02-01-2023,10,Local,1.04192108,Chicago
+2,23-10-2023,11,International,21.60336529,New York
+68,12-11-2023,15,International,10.5210556,New York
+2,20-06-2023,52,Local,24.28675133,Chicago
+53,13-01-2023,30,International,37.47422275,New York
+24,11-01-2023,30,Local,49.37199758,Los Angeles
+32,17-07-2023,36,Local,42.39256846,Los Angeles
+12,20-08-2023,42,International,27.11890922,New York
+96,28-02-2023,4,International,10.21042626,Los Angeles
+15,06-08-2023,11,International,46.31804793,Chicago
+71,18-04-2023,24,International,46.34068982,Los Angeles
+14,07-10-2023,15,International,22.256906,New York
+42,13-08-2023,57,Local,44.89131506,Chicago
+67,25-02-2023,17,International,20.02156538,New York
+21,10-02-2023,40,Local,31.06273869,Los Angeles
+28,18-01-2023,14,International,5.274621245,Chicago
+9,10-10-2023,54,International,17.80978486,Los Angeles
+56,17-04-2023,19,Local,44.24609674,Los Angeles
+94,02-11-2023,19,Local,50.25526542,New York
+11,12-12-2023,49,International,21.33868817,New York
+64,28-01-2023,52,International,9.093341517,Los Angeles
+3,17-01-2023,53,Local,7.301550909,Chicago
+80,23-08-2023,36,Local,30.31826661,New York
+50,10-06-2023,46,International,20.34575475,New York
+23,20-01-2023,36,International,48.93712325,New York
+45,26-10-2023,42,Local,19.07656567,Los Angeles
+92,13-12-2023,11,Local,41.46679769,Los Angeles
+15,15-09-2023,21,International,2.494271224,New York
+90,08-02-2023,51,Local,18.79629641,Los Angeles
+87,23-01-2023,21,Local,13.91669036,Chicago
+37,03-10-2023,12,International,30.36474738,Los Angeles
+81,03-05-2023,10,International,8.531552935,Chicago
+65,21-09-2023,35,Local,45.09852374,Los Angeles
+54,05-11-2023,1,Local,39.81985787,Chicago
+79,04-07-2023,47,International,12.59479256,Los Angeles
+42,17-09-2023,53,Local,5.390588675,New York
+8,10-08-2023,20,International,28.14912405,Los Angeles
+4,17-12-2023,19,Local,15.30735778,Los Angeles
+19,09-07-2023,48,Local,43.19091473,New York
+97,14-07-2023,9,International,38.72240765,New York
+67,23-09-2023,44,Local,15.28985513,New York
+45,03-01-2023,45,Local,5.349340218,New York
+39,13-04-2023,56,Local,36.91919864,Los Angeles
+100,16-05-2023,10,Local,16.14755554,Chicago
+83,09-08-2023,24,Local,4.2135412,Chicago
+23,26-01-2023,41,International,40.10664806,New York
+13,25-07-2023,8,International,20.00219178,Chicago
+29,18-08-2023,59,International,38.36506294,Los Angeles
+80,27-10-2023,12,Local,32.75546723,Los Angeles
+63,25-07-2023,42,International,44.21065639,Los Angeles
+4,03-10-2023,9,Local,34.68536872,Los Angeles
+76,07-08-2023,17,Local,2.407922303,New York
+36,01-04-2023,55,International,8.099942943,New York
+31,02-09-2023,12,International,40.01779535,New York
+3,08-11-2023,34,Local,11.291092,Chicago
+66,09-04-2023,33,Local,20.70983348,New York
+89,09-09-2023,2,Local,49.83413401,Chicago
+37,22-10-2023,41,International,11.85505442,Los Angeles
+45,24-01-2023,12,Local,2.277692839,Chicago
+82,02-10-2023,45,International,30.96929447,Los Angeles
+20,17-07-2023,35,International,48.05096666,Los Angeles
+68,08-05-2023,13,International,7.657840149,Chicago
+77,02-02-2023,50,Local,37.48003225,New York
+43,23-11-2023,34,International,47.61265259,Los Angeles
+26,08-10-2023,56,International,25.48220266,New York
+23,16-11-2023,19,International,44.59935374,New York
+19,27-03-2023,38,International,10.27526659,New York
+43,06-04-2023,27,International,10.6771882,New York
+34,20-12-2023,1,Local,4.207283428,Chicago
+20,02-05-2023,38,Local,5.110843759,Chicago
+93,02-12-2023,23,International,43.08240268,Los Angeles
+92,11-09-2023,20,International,35.54436136,Los Angeles
+74,13-03-2023,3,International,42.53391291,Chicago
+82,01-01-2023,45,Local,20.04295616,Los Angeles
+52,02-10-2023,51,International,6.571326337,Los Angeles
+27,06-06-2023,53,Local,33.6339297,Chicago
+15,14-02-2023,4,International,4.263214231,New York
+41,03-07-2023,35,Local,33.10446624,New York
+53,27-02-2023,60,International,37.08191261,New York
+88,12-10-2023,57,International,3.620754492,Los Angeles
+89,25-06-2023,34,International,24.49223654,Chicago
+51,25-04-2023,36,Local,8.383009288,New York
+63,15-04-2023,22,International,46.36011235,New York
+54,03-03-2023,23,International,16.74195977,New York
+69,11-10-2023,57,Local,18.31174026,Los Angeles
+55,18-07-2023,45,International,31.10996552,Chicago
+29,08-10-2023,51,International,25.47779843,Chicago
+1,08-01-2023,32,International,6.976303945,New York
+72,20-06-2023,25,International,29.41041336,Chicago
+65,24-02-2023,31,International,17.45923072,Chicago
+36,20-10-2023,16,International,7.46322573,New York
+5,03-11-2023,24,International,20.3508722,Los Angeles
+56,21-03-2023,17,Local,22.61690812,Chicago
+27,08-11-2023,20,Local,33.00882592,Los Angeles
+63,01-10-2023,7,Local,1.77171741,Los Angeles
+17,14-10-2023,30,International,16.10766164,Chicago
+5,20-07-2023,4,Local,5.066587808,Los Angeles
+61,17-10-2023,40,Local,45.50224104,Chicago
+42,01-06-2023,28,International,49.71399056,Los Angeles
+90,17-02-2023,42,International,45.77173905,Los Angeles
+51,25-10-2023,48,International,36.09485771,New York
+16,22-04-2023,47,Local,16.07152138,New York
+6,03-09-2023,22,Local,20.24540916,Los Angeles
+82,28-03-2023,43,Local,1.070134437,Chicago
+37,07-02-2023,51,Local,8.75178962,New York
+46,10-03-2023,19,International,3.781696182,Los Angeles
+85,06-07-2023,31,Local,31.37526972,Chicago
+11,07-12-2023,15,International,8.535924559,Los Angeles
+78,10-01-2023,50,Local,18.10617457,Chicago
+20,24-05-2023,41,International,14.14810438,Los Angeles
+62,17-03-2023,5,Local,28.49472466,Los Angeles
+62,08-02-2023,41,Local,25.17047555,Los Angeles
+12,15-08-2023,20,International,49.23397358,Chicago
+24,04-01-2023,26,Local,34.19794319,Los Angeles
+84,14-09-2023,38,Local,35.04970798,Los Angeles
+47,14-11-2023,17,International,17.0200532,New York
+74,23-07-2023,35,International,41.07857468,Los Angeles
+77,20-02-2023,21,International,8.813051037,Los Angeles
+17,06-01-2023,20,International,6.029846179,Los Angeles
+79,26-05-2023,30,International,19.99142058,Los Angeles
+89,26-12-2023,44,Local,12.71638059,Chicago
+25,08-10-2023,51,Local,35.11533298,Chicago
+50,26-08-2023,51,International,41.30644898,New York
+25,06-04-2023,31,Local,46.55252025,Los Angeles
+23,08-03-2023,51,International,24.61371634,Chicago
+100,14-10-2023,48,International,20.84399788,Chicago
+38,08-06-2023,54,International,31.18643348,Chicago
+68,07-04-2023,54,Local,5.713877443,Chicago
+56,23-07-2023,46,Local,45.92633314,Los Angeles
+84,07-09-2023,17,Local,13.0066064,Chicago
+4,25-05-2023,30,Local,13.92280178,New York
+12,10-11-2023,42,International,6.569144669,Los Angeles
+96,13-09-2023,38,Local,4.714698854,Chicago
+2,25-09-2023,49,International,11.20436272,Los Angeles
+88,03-01-2023,17,Local,5.213366553,Chicago
+85,23-01-2023,18,International,47.26627376,Chicago
+93,07-01-2023,21,International,26.82221772,Los Angeles
+46,14-07-2023,50,Local,32.66658833,Chicago
+92,16-07-2023,13,Local,29.11655285,New York
+16,09-10-2023,59,International,38.63970833,Los Angeles
+9,14-05-2023,5,International,46.2481301,Chicago
+19,15-08-2023,3,International,22.36886745,Chicago
+38,27-09-2023,59,International,3.216620877,Chicago
+84,26-08-2023,45,Local,39.47142929,Los Angeles
+26,23-05-2023,24,Local,4.936868205,Los Angeles
+7,16-09-2023,35,International,48.00842186,Chicago
+93,19-12-2023,53,Local,10.22269971,New York
+64,26-04-2023,35,Local,46.50279497,New York
+42,10-10-2023,43,Local,23.77945178,Los Angeles
+67,02-03-2023,20,Local,14.83633952,New York
+82,08-11-2023,29,Local,9.685007448,Los Angeles
+7,27-02-2023,34,Local,48.48429367,Chicago
+52,20-09-2023,1,Local,36.28141133,Chicago
+82,16-12-2023,10,International,18.44975791,New York
+25,16-12-2023,45,Local,14.90696566,Chicago
+13,22-07-2023,6,International,33.8949413,Los Angeles
+49,21-04-2023,7,International,14.58327884,Chicago
+98,06-07-2023,11,Local,37.10491451,New York
+71,17-11-2023,34,International,17.67003336,Chicago
+84,15-07-2023,13,International,1.81534178,Los Angeles
+32,07-07-2023,13,International,42.2246192,Los Angeles
+96,05-06-2023,48,International,47.85199839,New York
+56,12-05-2023,22,Local,15.85356669,Chicago
+80,02-05-2023,17,Local,43.3317982,Los Angeles
+15,02-06-2023,54,International,42.23194549,Chicago
+83,28-12-2023,11,Local,50.69241159,Chicago
+85,09-03-2023,14,International,16.72102513,New York
+17,08-01-2023,54,Local,50.0943258,Chicago
+73,19-03-2023,10,Local,10.4125314,New York
+24,14-10-2023,52,International,38.88019527,Chicago
+56,28-08-2023,59,Local,9.864591282,New York
+15,22-05-2023,28,Local,47.03396976,Los Angeles
+37,12-09-2023,1,Local,5.712030349,Los Angeles
+80,23-06-2023,10,Local,42.9827601,Los Angeles
+12,03-01-2023,24,Local,33.32708868,Los Angeles
+54,24-09-2023,21,Local,20.49519755,Chicago
+93,02-11-2023,11,International,43.43498603,Chicago
+81,08-08-2023,38,Local,32.22551224,Los Angeles
+58,12-02-2023,30,Local,30.33617216,New York
+82,04-06-2023,40,International,33.80516974,Chicago
+46,20-10-2023,17,Local,20.66511627,Chicago
+24,10-08-2023,29,International,37.38361866,Chicago
+56,13-06-2023,34,International,2.426422337,New York
+28,26-01-2023,47,International,35.42191947,Los Angeles
+94,24-11-2023,23,Local,29.77152221,Los Angeles
+25,28-06-2023,8,Local,21.75530664,Los Angeles
+89,25-11-2023,36,Local,29.86241214,New York
+34,01-06-2023,39,Local,3.105877115,New York
+48,04-12-2023,16,International,35.72289333,New York
+20,19-04-2023,33,International,28.98697565,New York
+88,20-10-2023,31,International,12.72869222,Los Angeles
+55,14-11-2023,30,International,27.18328119,Chicago
+6,19-03-2023,43,Local,26.83158578,Chicago
+10,26-03-2023,21,International,40.24175119,Los Angeles
+37,14-06-2023,32,Local,13.18321146,New York
+67,16-07-2023,11,Local,6.845203983,New York
+48,10-07-2023,31,Local,26.67660104,Chicago
+92,26-03-2023,9,Local,49.67434484,Chicago
+24,28-03-2023,8,Local,42.20607655,Chicago
+49,18-08-2023,57,Local,38.17065687,Chicago
+16,10-11-2023,42,Local,23.83408862,New York
+78,10-01-2023,58,International,37.81584051,Chicago
+20,03-10-2023,51,Local,26.80381317,Los Angeles
+11,21-05-2023,7,International,24.95989828,New York
+100,13-09-2023,52,International,45.99380216,Los Angeles
+11,09-12-2023,10,International,48.43416673,Los Angeles
+19,16-04-2023,50,International,35.99673222,New York
+7,11-10-2023,59,International,21.39962767,New York
+86,27-01-2023,60,Local,40.27887788,Chicago
+77,11-03-2023,7,International,9.963122856,Los Angeles
+52,05-05-2023,13,Local,10.39559288,Chicago
+48,01-05-2023,42,Local,4.547872767,New York
+46,16-12-2023,54,Local,12.24829378,Los Angeles
+33,05-12-2023,1,International,20.09808464,Chicago
+61,01-10-2023,30,International,11.8346858,New York
+96,05-09-2023,7,Local,33.13443415,Los Angeles
+67,03-11-2023,2,Local,40.44121947,New York
+20,24-09-2023,59,Local,44.42681884,Chicago
+100,08-06-2023,22,Local,37.97726875,New York
+50,18-12-2023,35,International,30.14765838,Chicago
+75,01-11-2023,3,International,21.48050223,New York
+73,03-11-2023,16,International,41.7647693,New York
+16,20-03-2023,41,Local,42.24660503,Los Angeles
+64,17-09-2023,36,Local,13.10260466,New York
+27,10-08-2023,35,Local,9.905773588,Los Angeles
+81,16-03-2023,14,Local,15.01035879,New York
+65,15-04-2023,19,Local,36.19201861,New York
+80,04-10-2023,35,International,6.929189679,Los Angeles
+48,24-06-2023,17,International,42.0843809,Los Angeles
+60,10-02-2023,46,Local,40.07770338,Los Angeles
+44,20-01-2023,43,Local,28.55245217,Chicago
+80,22-12-2023,26,International,16.00669203,Chicago
+41,12-10-2023,16,International,48.46451694,New York
+64,13-10-2023,44,Local,29.17021385,Chicago
+2,06-10-2023,46,Local,2.293344176,New York
+28,03-03-2023,14,Local,50.44152953,Los Angeles
+65,11-08-2023,20,Local,35.53636271,Los Angeles
+15,25-03-2023,12,Local,20.94495736,Chicago
+79,01-08-2023,45,International,6.044504887,Los Angeles
+45,11-11-2023,42,International,22.50850217,New York
+41,07-06-2023,42,International,23.85303395,Los Angeles
+89,05-12-2023,59,Local,25.53703882,New York
+85,22-02-2023,31,Local,39.54754778,Chicago
+94,18-08-2023,7,Local,17.52446964,Chicago
+97,09-10-2023,55,Local,24.48376876,Chicago
+71,19-07-2023,8,International,25.89199486,Chicago
+54,03-10-2023,31,Local,23.35949752,Los Angeles
+4,03-05-2023,46,Local,19.8249525,New York
+32,13-07-2023,27,Local,20.8812887,Chicago
+97,28-05-2023,6,Local,40.07223028,New York
+6,07-03-2023,8,International,7.691421665,Los Angeles
+100,04-07-2023,43,International,21.09491196,New York
+39,03-04-2023,1,International,18.42555613,New York
+94,02-09-2023,30,International,34.58312925,Los Angeles
+62,01-10-2023,57,International,43.51163938,New York
+72,01-01-2023,14,International,30.74028114,New York
+92,21-09-2023,50,Local,20.4677009,Los Angeles
+45,27-11-2023,20,Local,9.03597561,Los Angeles
+83,04-11-2023,40,Local,7.427538611,Los Angeles
+43,01-12-2023,2,Local,4.57395912,Chicago
+83,28-02-2023,28,International,16.07035684,Los Angeles
+52,04-03-2023,9,Local,31.61245471,Los Angeles
+48,08-04-2023,47,Local,14.53147952,New York
+54,01-03-2023,52,International,22.76294708,Chicago
+6,11-01-2023,10,International,42.73562942,New York
+73,07-08-2023,40,Local,15.64882609,Los Angeles
+14,24-06-2023,22,International,42.56268216,Chicago
+44,16-05-2023,38,International,33.22802811,Chicago
+89,15-03-2023,5,International,23.0477817,Chicago
+53,14-12-2023,52,International,5.655814521,Chicago
+82,04-04-2023,18,International,45.43932992,New York
+38,01-07-2023,58,International,10.88845388,Los Angeles
+11,17-01-2023,58,International,39.31687423,Chicago
+30,15-03-2023,53,Local,48.88631758,New York
+98,07-06-2023,33,Local,9.519426761,Los Angeles
+13,13-01-2023,13,Local,11.69547699,New York
+31,18-10-2023,54,International,7.388058785,Los Angeles
+53,05-01-2023,44,Local,14.47016285,New York
+38,02-04-2023,42,Local,35.52703673,Chicago
+17,09-06-2023,55,Local,46.95286493,Los Angeles
+52,28-09-2023,30,Local,28.08857692,New York
+23,27-10-2023,36,International,14.26222933,Los Angeles
+66,21-09-2023,56,Local,48.73705196,New York
+39,17-04-2023,46,International,11.11182738,Los Angeles
+77,28-01-2023,11,Local,34.55188776,Chicago
+49,13-12-2023,8,International,35.12342381,Chicago
+40,19-12-2023,52,Local,19.12800899,New York
+63,17-05-2023,8,Local,41.62224951,New York
+44,01-09-2023,38,Local,27.57090495,New York
+14,05-07-2023,46,Local,34.41576595,Chicago
+76,20-04-2023,27,Local,2.85514665,Chicago
+20,05-06-2023,14,International,23.88601556,New York
+35,11-09-2023,52,Local,11.51835273,New York
+18,02-08-2023,12,International,43.15489431,Los Angeles
+43,03-02-2023,13,International,29.86074677,Los Angeles
+99,25-05-2023,38,International,12.47126957,New York
+83,21-03-2023,19,International,47.01492339,Chicago
+37,25-01-2023,51,International,17.73883991,Los Angeles
+4,22-01-2023,41,International,42.8513705,New York
+97,01-10-2023,16,Local,46.62232949,Los Angeles
+85,12-05-2023,17,International,23.50548931,Los Angeles
+81,08-01-2023,40,Local,48.69979508,Chicago
+80,02-10-2023,51,International,43.75008653,Los Angeles
+39,16-03-2023,59,International,46.43282314,Los Angeles
+75,17-07-2023,3,Local,36.59144437,Los Angeles
+92,11-03-2023,6,Local,38.1493326,Los Angeles
+77,12-09-2023,56,International,34.28806327,Chicago
+77,07-11-2023,21,International,22.95235372,Chicago
+84,08-10-2023,34,International,50.85794529,New York
+67,01-05-2023,50,Local,43.48896325,New York
+20,16-01-2023,13,International,36.74926706,Los Angeles
+44,28-11-2023,10,International,33.52941219,Los Angeles
+68,01-05-2023,2,Local,42.27320414,Chicago
+63,19-01-2023,13,International,10.52199905,Chicago
+95,20-01-2023,28,Local,13.25335724,Chicago
+63,15-05-2023,22,International,42.09950065,Chicago
+28,18-03-2023,33,Local,7.343447499,New York
+12,13-01-2023,37,Local,19.91023064,New York
+74,08-01-2023,48,International,4.538427894,New York
+74,10-04-2023,24,International,2.955198651,New York
+21,12-11-2023,58,Local,15.06446141,New York
+98,03-11-2023,29,Local,46.67252268,Los Angeles
+61,20-10-2023,36,Local,23.11970082,Chicago
+85,15-11-2023,37,International,45.04257682,Chicago
+50,08-10-2023,13,International,41.25001441,New York
+77,09-07-2023,15,Local,33.93917104,Los Angeles
+17,08-03-2023,58,Local,28.00202503,New York
+84,01-03-2023,11,Local,11.67912463,New York
+34,18-02-2023,13,Local,34.29132104,Chicago
+11,03-02-2023,56,Local,11.54196411,Los Angeles
+51,12-12-2023,16,Local,43.78737069,New York
+85,23-06-2023,54,Local,44.97125103,New York
+72,11-10-2023,37,Local,19.27566948,New York
+34,28-11-2023,6,Local,37.06902847,Chicago
+7,06-12-2023,42,International,10.8076992,Los Angeles
+46,27-10-2023,52,Local,46.8398384,Chicago
+42,03-02-2023,42,Local,13.72140959,Chicago
+61,25-07-2023,15,Local,48.87391133,New York
+46,22-06-2023,37,International,37.95190486,New York
+36,02-04-2023,1,Local,49.76882078,Los Angeles
+16,27-07-2023,36,Local,30.3959974,New York
+46,11-01-2023,28,International,2.386704309,New York
+74,06-03-2023,30,International,11.97464867,Los Angeles
+93,19-04-2023,47,International,40.06135281,Los Angeles
+60,18-05-2023,17,Local,41.07917856,New York
+85,08-11-2023,2,Local,38.1584,Chicago
+57,04-09-2023,12,Local,10.75827018,Los Angeles
+65,04-08-2023,48,Local,13.81369145,Los Angeles
+30,17-09-2023,23,International,33.68695389,New York

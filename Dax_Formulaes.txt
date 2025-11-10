@@ -1,0 +1,36 @@
+Total Revenue = SUM('telecom_dw_customer_profitability'[Total_Revenue])
+
+Customers = DISTINCTCOUNT('telecom_dw_customer_profitability'[Customer_ID])
+
+Total Acquisition Cost = SUM('telecom_dw_customer_profitability'[Acquisition_Cost])
+
+Total Profit = [Total Revenue] - [Total Acquisition Cost]
+
+Return on Investment = DIVIDE([Total Profit], [Total Acquisition Cost], 0)
+
+Avg Profit per Customer = DIVIDE([Total Profit], [Customers])
+
+Avg Customer Tenure (Months) = 
+    AVERAGEX(
+        'telecom_dw_customer_profitability',
+        DATEDIFF(
+            RELATED('telec_duplicate'[Acquisition Date]),
+            TODAY(),
+            MONTH
+        )
+    )
+
+Customer Lifetime Value (CLV) = 
+    [Avg Profit per Customer] * [Avg Customer Tenure (Months)]
+Revenue Last Month = 
+    CALCULATE(
+        [Total Revenue],
+        DATEADD('Date Table'[Date], -1, MONTH)
+    )
+
+MoM Revenue Growth = 
+    DIVIDE(
+        [Total Revenue] - [Revenue Last Month], 
+        [Revenue Last Month]
+    )
+Rev per Customer = DIVIDE([Total Revenue], [Customers])

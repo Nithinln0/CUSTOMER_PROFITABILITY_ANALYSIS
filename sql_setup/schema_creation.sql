@@ -57,3 +57,22 @@ SELECT * FROM cleaned_cdr;
 SELECT * FROM cleaned_customer_info;
 SELECT * FROM cleaned_internet_usage;
 SELECT * FROM cleaned_rules;
+INSERT INTO customer_profitability
+SELECT 
+    c.Customer_ID,
+    DATE_FORMAT(cd.Call_Date, '%Y-%m-01') AS Month,
+    SUM(cd.Call_Duration * r.Weightage + cd.Charges * r.Score) AS Profitability_Score,
+    AVG(SUM(cd.Call_Duration * r.Weightage + cd.Charges * r.Score)) OVER (PARTITION BY c.Segment, cd.Geography) AS Aggregated_Score,
+    c.Segment,
+    cd.Geography,
+    SUM(cd.Charges) AS Total_Revenue,
+    COUNT(DISTINCT c.Customer_ID) AS Customer_Count
+FROM cdr_raw cd
+JOIN customer_profiles_raw c ON cd.Customer_ID = c.Customer_ID
+JOIN rules_master_raw r ON c.Segment = r.Target_Customer
+WHERE cd.Call_Date BETWEEN r.Rule_Start_Date AND r.Rule_End_Date
+GROUP BY c.Customer_ID, Month, c.Segment, cd.Geography;
+
+select*from customer_profitability;
+SELECT AVG(Aggregated_Score) FROM customer_profitability WHERE Segment='Premium';
+SELECT MIN(Aggregated_Score), MAX(Aggregated_Score) FROM customer_profitability;

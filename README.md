@@ -156,8 +156,9 @@ Businesses often lack an integrated view of customer profitability due to:
    → Supports targeted marketing and maximizes profitability per customer group.
 
 ---
-
+```
 ## 🧩 Repository Structure
+
 Customer_Profitability_Analysis/
 │
 ├── Data/
@@ -184,6 +185,7 @@ Customer_Profitability_Analysis/
 │
 ├── Dax_Formulaes.txt
 └── requirements.txt
+```
 
 
 
